@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "四季ノ唄",
+  "base_artist": "MINMI",
+  "createdAt": "2026-03-11T12:40:57.186101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "四季ノ唄",
+      "artist": "MINMI",
+      "has_synced": true,
+      "path": "select/01_四季ノ唄_MINMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "四季ノ唄",
+      "artist": "MINMI",
+      "has_synced": true,
+      "path": "select/02_四季ノ唄_MINMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "四季ノ唄",
+      "artist": "MINMI",
+      "has_synced": true,
+      "path": "select/03_四季ノ唄_MINMI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "四季ノ唄",
+      "artist": "MINMI",
+      "has_synced": true,
+      "path": "select/04_四季ノ唄_MINMI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "四季ノ唄",
+      "artist": "MINMI",
+      "has_synced": true,
+      "path": "select/05_四季ノ唄_MINMI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "四季ノ唄",
+      "artist": "MINMI",
+      "has_synced": false,
+      "path": "select/06_四季ノ唄_MINMI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shiki no Uta [四季ノ唄]",
+      "artist": "MINMI",
+      "has_synced": true,
+      "path": "select/07_Shiki_no_Uta_[四季ノ唄]_MINMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "四季ノ唄",
+      "artist": "MINMI",
+      "has_synced": false,
+      "path": "select/pl_01_四季ノ唄_MINMI.txt"
+    }
+  ]
+}
